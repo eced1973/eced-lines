@@ -1,0 +1,10 @@
+{
+  "name": "OrthoLine Studio",
+  "description": "Engineering graphics solver, 2D drafting sheet, 3D spatial visualizer, OCR problem scanner, and interactive step-by-step tutorial for projections and traces of straight lines inclined to both planes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
